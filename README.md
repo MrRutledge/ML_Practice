@@ -22,7 +22,7 @@ In this notebook I follow an End to End process of a machine learning project. I
 [FastAi Machine Learning Course](./FastAi_ML_RandomForest.ipynb)
 This notebook is a collection of notes from the FastAi Machine Learning Course from Lesson one to lesson seven.
 
-[Boston Dataset](./Boston Dataset.ipynb)
+[Boston Dataset](./Boston\Dataset.ipynb)
 
 My implementation of Linear Regression using machine learning techniques from various sources.
 
