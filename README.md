@@ -17,7 +17,7 @@ This notebook I used Kaggles's Housing dataset to implement Random Forest, the a
 
 [California Houses](./CaliHousesdataset.ipynb)
 
-In this notebook I follow an End to End process of a machine learning project. I use chapter two of Hands on Machine learning with Scikit-learn by Aurelion G
+In this notebook I follow an End to End process of a machine learning project. I use chapter two of [Hands on Machine learning](https://github.com/ageron/handson-ml2 with Scikit-learn) by Aurelien Geron
 
 [FastAi Machine Learning Course](./FastAi_ML_RandomForest.ipynb)
 This notebook is a collection of notes from the FastAi Machine Learning Course from Lesson one to lesson seven.
